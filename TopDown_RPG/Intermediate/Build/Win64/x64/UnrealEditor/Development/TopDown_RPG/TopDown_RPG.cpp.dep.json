@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\sulis\\onedrive\\documentos\\unrealprojects\\topdown_rpg\\topdown_rpg\\source\\topdown_rpg\\topdown_rpg.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\sulis\\onedrive\\documentos\\unrealprojects\\topdown_rpg\\topdown_rpg\\intermediate\\build\\win64\\x64\\topdown_rpgeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\sulis\\onedrive\\documentos\\unrealprojects\\topdown_rpg\\topdown_rpg\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\topdown_rpg\\definitions.topdown_rpg.h",
+            "c:\\users\\sulis\\onedrive\\documentos\\unrealprojects\\topdown_rpg\\topdown_rpg\\source\\topdown_rpg\\topdown_rpg.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TopDown_RPG",
+			"Path": "..\\Source\\TopDown_RPG.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TopDown_RPGEditor",
+			"Path": "..\\Source\\TopDown_RPGEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

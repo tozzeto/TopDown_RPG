@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\sulis\\OneDrive\\Documentos\\UnrealProjects\\TopDown_RPG\\TopDown_RPG\\Source\\TopDown_RPG\\TopDown_RPG.Build.cs",
+		"C:\\Users\\sulis\\OneDrive\\Documentos\\UnrealProjects\\TopDown_RPG\\TopDown_RPG\\Source\\TopDown_RPG.Target.cs",
+		"C:\\Users\\sulis\\OneDrive\\Documentos\\UnrealProjects\\TopDown_RPG\\TopDown_RPG\\Source\\TopDown_RPGEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.2"
+}

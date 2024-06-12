@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-TopDown_RPG.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\sulis\OneDrive\Documentos\UnrealProjects\TopDown_RPG\TopDown_RPG\Intermediate\Build\Win64\x64\TopDown_RPGEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\sulis\OneDrive\Documentos\UnrealProjects\TopDown_RPG\TopDown_RPG\Intermediate\Build\Win64\x64\UnrealEditor\Development\TopDown_RPG\TopDown_RPG.cpp.obj"
+"C:\Users\sulis\OneDrive\Documentos\UnrealProjects\TopDown_RPG\TopDown_RPG\Intermediate\Build\Win64\x64\UnrealEditor\Development\TopDown_RPG\Default.rc2.res"
+/OUT:"C:\Users\sulis\OneDrive\Documentos\UnrealProjects\TopDown_RPG\TopDown_RPG\Intermediate\Build\Win64\x64\UnrealEditor\Development\TopDown_RPG\UnrealEditor-TopDown_RPG.lib"
